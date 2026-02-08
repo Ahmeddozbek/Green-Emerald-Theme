@@ -1,0 +1,39 @@
+:root {
+  --bg-main: #176032;
+  --text-main: #0DAB5E;
+}
+
+.theme-dark,
+.appMount-2yBXZl,
+.app-2CXKsg,
+.bg-1QIAus {
+  background-color: var(--bg-main) !important;
+}
+
+body,
+span,
+div,
+h1, h2, h3,
+p {
+  color: var(--text-main);
+}
+
+.layer-86YKbF {
+  background-color: var(--bg-main) !important;
+}
+
+.container-2o3qEW {
+  position: relative;
+}
+
+.container-2o3qEW::before {
+  content: ">:]";
+  position: absolute;
+  top: -14px;
+  left: 4px;
+  font-size: 12px;
+  color: var(--text-main);
+  opacity: 0.6;
+  letter-spacing: 1px;
+  pointer-events: none;
+}
