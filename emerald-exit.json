@@ -1,9 +1,42 @@
 {
   "name": "Emerald Exit",
-  "description": "Dark emerald Discord theme with a hidden >:] easter egg",
-  "author": "Ahmeddozbek",
-  "version": "1.0.0",
-  "main": "emerald-exit.theme.css",
-  "source": "https://github.com/Ahmeddozbek/Green-Emerald-Theme",
-  "website": "https://github.com/Ahmeddozbek/Green-Emerald-Theme"
+  "description": "Dark emerald Vendetta theme with subtle menace.",
+  "authors": [
+    {
+      "name": "Ahmeddozbek"
+    }
+  ],
+  "semanticColors": {
+    "TEXT_NORMAL": ["#0DAB5E"],
+    "TEXT_MUTED": ["#0DAB5E"],
+    "TEXT_LINK": ["#0DAB5E"],
+    "INTERACTIVE_NORMAL": ["#0DAB5E"],
+    "INTERACTIVE_ACTIVE": ["#0DAB5E"],
+    "INTERACTIVE_MUTED": ["#0A7F46"],
+
+    "BACKGROUND_PRIMARY": ["#176032"],
+    "BACKGROUND_SECONDARY": ["#176032"],
+    "BACKGROUND_SECONDARY_ALT": ["#176032"],
+    "BACKGROUND_TERTIARY": ["#176032"],
+    "BACKGROUND_FLOATING": ["#176032"],
+    "BACKGROUND_NESTED_FLOATING": ["#176032"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#176032"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#176032"],
+    "CHAT_BACKGROUND": ["#176032"],
+
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1E7A4A"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#1E7A4A"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#176032"]
+  },
+  "rawColors": {
+    "BRAND_360": "#0DAB5E",
+    "BRAND_500": "#0DAB5E",
+    "GREEN_360": "#0DAB5E",
+    "PRIMARY_600": "#176032",
+    "PRIMARY_630": "#176032",
+    "PRIMARY_660": "#176032",
+    "PRIMARY_700": "#176032",
+    "PRIMARY_800": "#176032"
+  },
+  "spec": 2
 }
