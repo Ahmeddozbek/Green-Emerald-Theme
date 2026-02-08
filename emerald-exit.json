@@ -1,7 +1,9 @@
 {
   "name": "Emerald Exit",
-  "description": "Dark emerald Discord theme with a hidden >:] easter egg in Settings search",
+  "description": "Dark emerald Discord theme with a hidden >:] easter egg",
   "author": "Ahmeddozbek",
   "version": "1.0.0",
-  "theme": "https://raw.githubusercontent.com/Ahmeddozbek/Green-Emerald-Theme/main/emerald-exit.theme.css"
+  "main": "emerald-exit.theme.css",
+  "source": "https://github.com/Ahmeddozbek/Green-Emerald-Theme",
+  "website": "https://github.com/Ahmeddozbek/Green-Emerald-Theme"
 }
